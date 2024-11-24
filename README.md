@@ -51,3 +51,9 @@ This project implements a command-line-based **Bank Account Management System** 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Nagar2nd/Bank_account_management_system-Python.git
+
+---
+
+- Open the Jupyter Notebook file Bank_account_management_system.ipynb.
+- Run the notebook cells sequentially.
+- Follow the on-screen instructions to perform banking operations.
