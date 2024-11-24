@@ -50,4 +50,4 @@ This project implements a command-line-based **Bank Account Management System** 
 ## **How to Run the System**  
 1. Clone this repository:  
    ```bash
-   git clone 
+   git clone https://github.com/Nagar2nd/Bank_account_management_system-Python.git
